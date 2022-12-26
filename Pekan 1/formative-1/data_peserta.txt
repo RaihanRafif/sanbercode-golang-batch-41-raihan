@@ -1,0 +1,11 @@
+Data Peserta Bootcamp Digital Skill - Golang Backend Development
+1. Nama: Raihan Rafif
+2. Email: raihanrafif200095@gmail.com
+3. Sistem Operasi yang digunakan: Windows
+4. Akun Github: github.com/RaihanRafif
+5. Akun Telegram: @Kepitingasammanis
+6. Status (Bekerja/Mahasiswa): Mahasiswa
+7. Umur: 22
+8. Pernah menggunakan Go? : Pernah
+9. Bahasa Pemrograman yg pernah dipelajari: Javascript, python, php, Golang , C
+10. Pernah membuat REST API? : pernah
